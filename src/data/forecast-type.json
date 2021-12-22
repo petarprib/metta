@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "24 hours", "exclude": "current,minutely,daily,alerts" },
+  { "id": 2, "name": "7 days", "exclude": "current,minutely,hourly,alert" }
+]
